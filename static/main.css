@@ -1002,7 +1002,7 @@ button:-moz-focusring {
   z-index: -1;
   width: 100vw;
   height: 100vh;
-  background: no-repeat top / cover url(../image/background.png);
+  background: no-repeat top / cover url(../image/background.webp);
 }
 
 .star-container .meteor {
@@ -1872,7 +1872,7 @@ p {
 }
 
 body {
-  background: no-repeat top / cover url(../image/background.png);
+  background: no-repeat top / cover url(../image/background.webp);
   font-size: 14px;
   color: #fff;
   color: var(--app-color);
