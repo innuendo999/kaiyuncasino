@@ -2163,7 +2163,7 @@ body::-webkit-scrollbar-track {
 
   .home-top-entry .game-wrapper_ag-join p {
     white-space: pre-wrap;
-    padding-left: 16px;
+    padding-left: 0px;
     font-size: 12px;
   }
 
@@ -2192,7 +2192,7 @@ body::-webkit-scrollbar-track {
   }
 
   .home-top-entry .game-wrapper_ag button {
-    margin-top: 0px;
+    margin-top: 46px;
   }
 }
 
