@@ -2038,7 +2038,7 @@ body::-webkit-scrollbar-track {
 }
 
 .home-top-entry .game-wrapper_ag-join p {
-  margin-top: 8px;
+  margin-top: 36px;
   font-size: 14px;
   line-height: 18px;
   color: #cbd6ff;
@@ -2192,7 +2192,7 @@ body::-webkit-scrollbar-track {
   }
 
   .home-top-entry .game-wrapper_ag button {
-    margin-top: 46px;
+    margin-top: 64px;
   }
 }
 
