@@ -623,6 +623,14 @@ body::-webkit-scrollbar-track {
   background-size: 15% 15%, 20% 20%, 18% 18%, 20% 20%, 15% 15%, 10% 10%, 20% 20%;
 }
 
+@media screen and (max-width: 768px) {
+  .style1.bubbly-button {
+    margin-top: 0px;
+  }
+}
+
+
+
 .style1:active {
   transform: scale(0.9);
   background-color: #ffb01b;
