@@ -2190,7 +2190,7 @@ body::-webkit-scrollbar-track {
 
 @media screen and (max-width: 468px) {
   .home-top-entry .game-wrapper .game-wrapper_ag {
-    background: no-repeat right / contain url(../image/ag-66-4.webp),
+    background: no-repeat right / contain url(../image/main-bg.png),
       no-repeat top / cover url(../images/beijing.png),
       linear-gradient(
         129.67deg,
